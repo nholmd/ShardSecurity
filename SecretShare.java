@@ -1,4 +1,4 @@
-package SecretShare;
+package ShardSecurity;
 
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;

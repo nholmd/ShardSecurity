@@ -1,4 +1,4 @@
-package SecretShare;
+package ShardSecurity;
 
 public class Shard {
     private int value;
